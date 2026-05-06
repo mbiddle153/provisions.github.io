@@ -8,4 +8,4 @@ bug reports
 feature requests
 general help
 
-Privacy Policy: ./privacy_policy.md
+[Privacy Policy](./privacy-policy.html)
