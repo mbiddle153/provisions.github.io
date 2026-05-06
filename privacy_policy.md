@@ -58,7 +58,7 @@ We retain information for as long as needed to provide the app and operate the s
 You can delete your account in the app.
 
 If you have questions about your data or need additional help, contact us at:
-**[YOUR SUPPORT EMAIL]**
+mbiddle153@gmail.com
 
 ## 7. Children's Privacy
 
@@ -75,4 +75,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 ## 10. Contact
 
 If you have questions about this Privacy Policy, contact:
-**[YOUR SUPPORT EMAIL]**
+mbiddle153@gmail.com
